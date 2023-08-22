@@ -58,4 +58,7 @@ google ads. Next in your app, save all these fetched information which you will 
 This will populate your own database and you can use it independently.
 
 ### Note:
+One of these are all may not work in your country due to your country law for example, Type 1 will not work in pakistan. So use VPN
+
+### Note:
 If any of these 3 types of request fails to work then do not panic. Just create an issue and i will try my best to fix it.
