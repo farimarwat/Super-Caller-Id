@@ -1,14 +1,14 @@
 # Super-Caller-Id
-A super powerfull SDK to get info about any mobile/phone number around the world.
+A super powerful SDK to get info about any mobile/phone number around the world.
 
 ## Dependency
-1. Include "supercaller.aar" in libs folder of your project.(aar file is available in app of the repo)
+1. Include "supercaller.aar" in libs folder of your project.(aar file is available in app>lib of the repo)
 2. Add dependency:
    ```
    implementation(files("libs/supercaller.aar"))
    ```
 ## Usage
-There are 3 types of information based on different APIs which are reverse engineered. USMLE US (a medical counsel) number is used to test:
+There are 3 types of information based on different APIs. USMLE US (a medical counsel) number is used to test:
 
 Note: Clone the repo for demo app.
 
@@ -51,7 +51,7 @@ Type3: [{"name":"NBME","type":""}]
 ```
 
 ### Important:
-This SDK is based on other APIs(Reverse Engineered). These APIs are using token based system and may expire any time.
+This SDK is based on other APIs. These APIs are using token based system and may expire any time.
 So I will try my best to update the SDK as soon as possible.
 Now what you have to do is to develop an app in just a week, upload to google play store and spend super powerfull investment in
 google ads. Next in your app, save all these fetched information which you will show to the user on your own server as well. 
