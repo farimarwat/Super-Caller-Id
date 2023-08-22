@@ -2,13 +2,15 @@
 A super powerfull SDK to get info about any mobile/phone number around the world.
 
 ## Dependency
-1. Include "supercaller.aar" in libs folder of your project.
+1. Include "supercaller.aar" in libs folder of your project.(aar file is available in app of the repo)
 2. Add dependency:
    ```
    implementation(files("libs/supercaller.aar"))
    ```
 ## Usage
 There are 3 types of information based on different APIs which are reverse engineered. USMLE us number is used to test:
+
+Note: Clone the repo for demo app.
 
 ### Type 1 
 #### Request:
