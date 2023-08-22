@@ -8,7 +8,7 @@ A super powerfull SDK to get info about any mobile/phone number around the world
    implementation(files("libs/supercaller.aar"))
    ```
 ## Usage
-There are 3 types of information based on different APIs which are reverse engineered. USMLE us number is used to test:
+There are 3 types of information based on different APIs which are reverse engineered. USMLE US (a medical counsel) number is used to test:
 
 Note: Clone the repo for demo app.
 
