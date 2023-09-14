@@ -54,7 +54,7 @@ Type3: [{"name":"NBME","type":""}]
 This SDK is based on other APIs. These APIs are using token based system and may expire any time.
 So I will try my best to update the SDK as soon as possible.
 Now what you have to do is to develop an app in just a week, upload to google play store and spend super powerfull investment in
-google ads. Next in your app, save all these fetched information which you will show to the user on your own server as well. 
+google ads. Next in your app, save all these fetched information ,which you will show to the user, on your own server as well. 
 This will populate your own database and you can use it independently.
 
 ### Note:
